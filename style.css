@@ -6,9 +6,9 @@
 
 .button {
   font: bold 16px Arial;
-  border: 1px solid #000000;
+  /*border: 1px solid #000000;*/
   text-decoration: none;
-  background-color: #6d7068;
+  /*background-color: #6d7068;*/
   color: #000000;
   padding: 10px;
 }
